@@ -1,0 +1,1 @@
+Split whole sound file to small clips by voice activity detectiion.
